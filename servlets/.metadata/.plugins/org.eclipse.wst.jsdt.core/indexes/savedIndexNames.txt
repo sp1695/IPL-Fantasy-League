@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+D:\Practice\IPL-Fantasy-League\servlets\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2593970536.index
+2914088588.index
+317482331.index
+4253242634.index
+2649067163.index
+37984701.index
